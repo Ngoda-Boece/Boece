@@ -5,7 +5,7 @@ PDF RAG System with Gemini Vertex AI
 Production-ready RAG pipeline for PDF document Q&A using ChromaDB vector store
 and Google Gemini 2.x models (2026).
 
-Author: Senior AI Engineer
+Author: Ngoda Boece
 Date: April 2026
 Version: 2.1 - Clean Output
 """
